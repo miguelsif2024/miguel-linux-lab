@@ -2,4 +2,4 @@
 Este es mi espacio de documentación para convertirme en experto en Linux.
 
 ## Secciones:
-* [Fundamentos](./01-fundamentos/prueba.md)
+* [Fundamentos](./01-fundamentos/Archivos de notas.md)
